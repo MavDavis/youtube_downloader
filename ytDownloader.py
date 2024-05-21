@@ -20,3 +20,4 @@ if available_streams:
     yd.download('/Users/davidmarvelous/Downloads')
 else:
     print("Sorry, the chosen quality is not available for this video.")
+# test url https://youtube.com/shorts/p74BWBHMPG8?si=KXw40DtUmg3tkiZV
